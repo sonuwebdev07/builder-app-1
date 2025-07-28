@@ -82,7 +82,7 @@ export default function QRCode() {
           </p>
 
           <div className="text-center">
-            <img src="/assets/logo.png" alt="Logo" className="mx-auto h-8" />
+            <img src="assets/logo.png" alt="Logo" className="mx-auto h-8" />
           </div>
         </div>
       </div>
